@@ -13,7 +13,6 @@ const Projects = () => {
                 slug={project.slug}
                 img={project.img}
                 desc={project.description}
-                tech={project.technologies}
                 link={project.deployed}
                 repo={project.repository}
               />
