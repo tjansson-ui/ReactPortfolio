@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Career Craft Resumes",
+      "slug": "JobReadyResumeBuilder",
+      "img": "./src/assets/careercraft-screenshot.png",
+      "alt": "Career Craft Homepage",
+      "description": "Resume building Website",
+      "deployed": "https://career-craft-2e3c88d80d23.herokuapp.com/",
+      "repository": "https://github.com/tjansson-ui/JobReadyResumeBuilder"
+    },
+    {
+      "name": "News World",
+      "slug": "news-world",
+      "img": "./src/assets/NewsWorldScreenshot.png",
+      "alt": "News Site API Project",
+      "description": "An News app where you search by the country.",
+      "deployed": "https://ricadbur.github.io/world-news/",
+      "repository": "https://github.com/RicAdbur/world-news"
+    },
+    {
+      "name": "PWA Text Editor",
+      "slug": "PwaTextEditor",
+      "img": "./src/assets/JATE.png",
+      "alt": "PWA Text Editor",
+      "description": "A simple text-editor app for online and offline use.",
+      "deployed": "https://texteditor-pwa-tool-ccb1582abecb.herokuapp.com/",
+      "repository": "https://github.com/tjansson-ui/PwaTextEditor"
+    },
+    {
+      "name": "SVG Logo Generator",
+      "slug": "svgLogoGenerator",
+      "img": "./src/assets/SVG-designer.png",
+      "alt": "SVG Logo Project",
+      "description": "3 character Logo tool",
+      "deployed": "",
+      "repository": "https://github.com/tjansson-ui/svgLogoGenerator"
+    },
+    {
+      "name": "Weather Dashboard tool",
+      "slug": "WeatherDashboard",
+      "img": "./src/assets/weather.png",
+      "alt": "weather dashboard tool",
+      "description": "A weather dashboard utilizing server-side APIs",
+      "deployed": "https://tjansson-ui.github.io/WeatherDashboard/",
+      "repository": "https://github.com/tjansson-ui/WeatherDashboard"
+    },
+    {
+        "name": "README Generator",
+        "slug": "ReadMeGenerator",
+        "img": "./src/assets/examplereadme.png",
+        "alt": "Read Me Creation Tool",
+        "description": "A README tool utilizing inquirer in Node",
+        "deployed": "",
+        "repository": "https://github.com/tjansson-ui/ReadMeGenerator"
+      }
+  ]
