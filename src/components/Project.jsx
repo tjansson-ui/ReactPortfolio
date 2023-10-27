@@ -12,7 +12,7 @@ const Project = ({ name, slug, img, desc, link, repo }) => {
             <Link className="btn btn-sm btn-outline-primary m-1 d-flex justify-content-center" href={repo}>Repo</Link>
         </div>
         {/* Images */}
-        <img src={img} className="img-fluid" alt="Background Image" />
+        <img src={img} className="img-fluid" alt={name} />
         <div className="container">
           {/* Content Overlay */}
           <p className="card-text">{desc}</p>

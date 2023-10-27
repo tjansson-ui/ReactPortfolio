@@ -5,7 +5,7 @@ The purpose of this application is to showcase projects in a React framework
 
 ![Portfolio page](src/assets/homepage.PNG)
 
-The deployed link can be found here 
+The deployed link can be found [here](https://tor-react-portfolio.netlify.app)
 
 The repo is found here on the [Github Repo Page](https://github.com/tjansson-ui/ReactPortfolio)
   ## Table of Contents
