@@ -6,12 +6,22 @@ const Contact = () => {
           <div className="row d-flex justify-content-center mt-5">
             <div className="col-4">
               <label for="nameInput" className="form-label">Name</label>
-              <input type="text" className="form-control" id="nameInput" />
+              <input 
+                type="text" 
+                className="form-control" 
+                id="nameInput" 
+                required
+              />
             </div>
   
             <div className="col-4">
               <label for="emailInput" className="form-label">Email address</label>
-              <input type="email" className="form-control" id="emailInput" placeholder="name@example.com" />
+              <input 
+                type="email" 
+                className="form-control" 
+                id="emailInput" 
+                placeholder="name@example.com" 
+                required/>
             </div>
           </div>
   
@@ -23,7 +33,7 @@ const Contact = () => {
           </div>
   
           <div className="d-flex justify-content-center">
-            <button className="btn btn-lg btn-outline-primary text-light" type="submit">Send Message</button>
+            <button className="btn btn-lg btn-outline-primary text-light" type="submit">Send a Message</button>
           </div>
   
         </form>
