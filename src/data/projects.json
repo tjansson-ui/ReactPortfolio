@@ -2,7 +2,7 @@
     {
       "name": "Career Craft Resumes",
       "slug": "JobReadyResumeBuilder",
-      "img": "./src/assets/careercraft-screenshot.png",
+      "img": "./public/assets/careercraft-screenshot.png",
       "alt": "Career Craft Homepage",
       "description": "Resume building Website",
       "deployed": "https://career-craft-2e3c88d80d23.herokuapp.com/",
@@ -11,7 +11,7 @@
     {
       "name": "News World",
       "slug": "news-world",
-      "img": "./src/assets/NewsWorldScreenshot.png",
+      "img": "./public/assets/NewsWorldScreenshot.png",
       "alt": "News Site API Project",
       "description": "An News app where you search by the country.",
       "deployed": "https://ricadbur.github.io/world-news/",
@@ -20,7 +20,7 @@
     {
       "name": "PWA Text Editor",
       "slug": "PwaTextEditor",
-      "img": "./src/assets/JATE.png",
+      "img": "./public/assets/JATE.png",
       "alt": "PWA Text Editor",
       "description": "A simple text-editor app for online and offline use.",
       "deployed": "https://texteditor-pwa-tool-ccb1582abecb.herokuapp.com/",
@@ -29,7 +29,7 @@
     {
       "name": "SVG Logo Generator",
       "slug": "svgLogoGenerator",
-      "img": "./src/assets/SVG-designer.png",
+      "img": "./public/assets/SVG-designer.png",
       "alt": "SVG Logo Project",
       "description": "3 character Logo tool",
       "deployed": "",
@@ -38,7 +38,7 @@
     {
       "name": "Weather Dashboard tool",
       "slug": "WeatherDashboard",
-      "img": "./src/assets/weather.png",
+      "img": "./public/assets/weather.png",
       "alt": "weather dashboard tool",
       "description": "A weather dashboard utilizing server-side APIs",
       "deployed": "https://tjansson-ui.github.io/WeatherDashboard/",
@@ -47,7 +47,7 @@
     {
         "name": "README Generator",
         "slug": "ReadMeGenerator",
-        "img": "./src/assets/examplereadme.png",
+        "img": "./public/assets/examplereadme.png",
         "alt": "Read Me Creation Tool",
         "description": "A README tool utilizing inquirer in Node",
         "deployed": "",

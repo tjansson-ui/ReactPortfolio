@@ -3,10 +3,10 @@ import { Link } from "react-router-dom"
 const Resume = () => {
     return (
       <>
-        <img src="./src/assets/opossumhero.png" className="img-fluid w-25" alt="resume stock photo" />
+        <img src="./public/assets/opossumhero.png" className="img-fluid w-25" alt="resume stock photo" />
         <h2>Resume</h2>
         <p>You found the resume page! This is a work in progress. </p>
-        <Link to="../src/assets/Resume_Current.pdf" target="_blank" download>Download a pdf here!</Link>
+        <Link to="../public/assets/Resume_Current.pdf" target="_blank" download>Download a pdf here!</Link>
 
         <div className="card">
         <div className="card-body">

@@ -3,7 +3,7 @@
 ## Description
 The purpose of this application is to showcase projects in a React framework
 
-![Portfolio page](src/assets/homepage.PNG)
+![Portfolio page](public/assets/homepage.PNG)
 
 The deployed link can be found [here](https://tor-react-portfolio.netlify.app)
 
