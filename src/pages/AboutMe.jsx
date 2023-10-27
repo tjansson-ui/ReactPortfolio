@@ -3,7 +3,7 @@ const AboutMe = () => {
       <div className="card m-5 p-2 bg-transparent">
         <div className="row g-0">
           <div className="col-md-3">
-            <img src="./public/assets/RussianCat.png" className="img-fluid" alt="hero photo" />
+            <img src="/assets/RussianCat.png" className="img-fluid" alt="Me as a cat photo" />
           </div>
           <div className="col-md-9">
             <div className="card-body">
